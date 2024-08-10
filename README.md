@@ -1,0 +1,1 @@
+Through this project, we have conquered the significant problems like regularizing curves, finding symmetries and handling occlusions by accepting the csv file from user and returning output in a csv file too.
